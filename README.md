@@ -1,7 +1,10 @@
 ETAPE DE LANCEMENT PROJET :
-*/npm install -g @angular/cli@8
-*/npm install
-*/ng serve
+
+npm install -g @angular/cli@8
+
+npm install
+
+ng serve
 
 
 # ElearninFormalab
